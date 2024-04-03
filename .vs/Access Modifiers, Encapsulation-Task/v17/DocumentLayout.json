@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\99455\\source\\repos\\Access Modifiers, Encapsulation-Task\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63EFF757-FE7F-4BC2-B8C1-444518B91729}|Access Modifiers, Encapsulation-Task\\Access Modifiers, Encapsulation-Task.csproj|c:\\users\\99455\\source\\repos\\access modifiers, encapsulation-task\\access modifiers, encapsulation-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EFF757-FE7F-4BC2-B8C1-444518B91729}|Access Modifiers, Encapsulation-Task\\Access Modifiers, Encapsulation-Task.csproj|solutionrelative:access modifiers, encapsulation-task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63EFF757-FE7F-4BC2-B8C1-444518B91729}|Access Modifiers, Encapsulation-Task\\Access Modifiers, Encapsulation-Task.csproj|C:\\Users\\99455\\source\\repos\\Access Modifiers, Encapsulation-Task\\access modifiers, encapsulation-task\\methods\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63EFF757-FE7F-4BC2-B8C1-444518B91729}|Access Modifiers, Encapsulation-Task\\Access Modifiers, Encapsulation-Task.csproj|solutionrelative:access modifiers, encapsulation-task\\methods\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 218,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Weapon.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Access Modifiers, Encapsulation-Task\\Access Modifiers, Encapsulation-Task\\Methods\\Weapon.cs",
+              "RelativeDocumentMoniker": "Access Modifiers, Encapsulation-Task\\Methods\\Weapon.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Access Modifiers, Encapsulation-Task\\Access Modifiers, Encapsulation-Task\\Methods\\Weapon.cs",
+              "RelativeToolTip": "Access Modifiers, Encapsulation-Task\\Methods\\Weapon.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAwwFgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T01:44:26.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\99455\\source\\repos\\Access Modifiers, Encapsulation-Task\\Access Modifiers, Encapsulation-Task\\Program.cs",
+              "RelativeDocumentMoniker": "Access Modifiers, Encapsulation-Task\\Program.cs",
+              "ToolTip": "C:\\Users\\99455\\source\\repos\\Access Modifiers, Encapsulation-Task\\Access Modifiers, Encapsulation-Task\\Program.cs",
+              "RelativeToolTip": "Access Modifiers, Encapsulation-Task\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-03T01:43:34.726Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

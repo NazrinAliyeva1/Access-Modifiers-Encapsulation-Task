@@ -1,0 +1,14 @@
+C:\Users\99455\source\repos\Access Modifiers, Encapsulation-Task\Access Modifiers, Encapsulation-Task\bin\Debug\net6.0\Access Modifiers, Encapsulation-Task.exe
+C:\Users\99455\source\repos\Access Modifiers, Encapsulation-Task\Access Modifiers, Encapsulation-Task\bin\Debug\net6.0\Access Modifiers, Encapsulation-Task.deps.json
+C:\Users\99455\source\repos\Access Modifiers, Encapsulation-Task\Access Modifiers, Encapsulation-Task\bin\Debug\net6.0\Access Modifiers, Encapsulation-Task.runtimeconfig.json
+C:\Users\99455\source\repos\Access Modifiers, Encapsulation-Task\Access Modifiers, Encapsulation-Task\bin\Debug\net6.0\Access Modifiers, Encapsulation-Task.dll
+C:\Users\99455\source\repos\Access Modifiers, Encapsulation-Task\Access Modifiers, Encapsulation-Task\bin\Debug\net6.0\Access Modifiers, Encapsulation-Task.pdb
+C:\Users\99455\source\repos\Access Modifiers, Encapsulation-Task\Access Modifiers, Encapsulation-Task\obj\Debug\net6.0\Access Modifiers, Encapsulation-Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\99455\source\repos\Access Modifiers, Encapsulation-Task\Access Modifiers, Encapsulation-Task\obj\Debug\net6.0\Access Modifiers, Encapsulation-Task.AssemblyInfoInputs.cache
+C:\Users\99455\source\repos\Access Modifiers, Encapsulation-Task\Access Modifiers, Encapsulation-Task\obj\Debug\net6.0\Access Modifiers, Encapsulation-Task.AssemblyInfo.cs
+C:\Users\99455\source\repos\Access Modifiers, Encapsulation-Task\Access Modifiers, Encapsulation-Task\obj\Debug\net6.0\Access Modifiers, Encapsulation-Task.csproj.CoreCompileInputs.cache
+C:\Users\99455\source\repos\Access Modifiers, Encapsulation-Task\Access Modifiers, Encapsulation-Task\obj\Debug\net6.0\Access Modifiers, Encapsulation-Task.dll
+C:\Users\99455\source\repos\Access Modifiers, Encapsulation-Task\Access Modifiers, Encapsulation-Task\obj\Debug\net6.0\refint\Access Modifiers, Encapsulation-Task.dll
+C:\Users\99455\source\repos\Access Modifiers, Encapsulation-Task\Access Modifiers, Encapsulation-Task\obj\Debug\net6.0\Access Modifiers, Encapsulation-Task.pdb
+C:\Users\99455\source\repos\Access Modifiers, Encapsulation-Task\Access Modifiers, Encapsulation-Task\obj\Debug\net6.0\Access Modifiers, Encapsulation-Task.genruntimeconfig.cache
+C:\Users\99455\source\repos\Access Modifiers, Encapsulation-Task\Access Modifiers, Encapsulation-Task\obj\Debug\net6.0\ref\Access Modifiers, Encapsulation-Task.dll
